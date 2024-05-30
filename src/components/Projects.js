@@ -52,7 +52,7 @@ function Projects() {
       desc:
         "Not sure if I need a description for this one...",
       techStack: "React, Bootstrap",
-      source: "https://github.com/ssjang25/ssjang25.github.io",
+      source: "https://github.com/ssjang25/ssjangdev",
       demo: "https://ssjang25.github.io/ssjangdev/"
     },
     "Ask-A-Valentine":{
