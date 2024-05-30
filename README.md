@@ -1,8 +1,8 @@
-<!-- <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
-</p> -->
-<p align="center">
+<p align="center" style={{ fontSize: '20px' }}>
   Portfolio/personal website leveraging React and Bootstrap! :D
 </p>
+
+
+* I thoroughly enjoyed utilizing Typist, Bootstrap icons, and Bootstrap itself to create this site. 
 
 * favicon by rawpixel.com on Freepik
