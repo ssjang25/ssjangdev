@@ -1,4 +1,8 @@
-<p align="center" style={{ fontSize: '20px' }}>
+<h1 align="center">
+  https://ssjang25.github.io/ssjangdev/
+</h1>
+
+<p align="center">
   Portfolio/personal website leveraging React and Bootstrap! :D
 </p>
 
