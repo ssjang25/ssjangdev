@@ -1,5 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#content{
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100vw;
+}
+
 .App {
-  text-align: center;
+  display: flex;
+  font-family: "Quicksand", sans-serif;
+  background-color: var(--navy);
+}
+
+a {
+  text-decoration: none !important;
+  color: var(--green-bright) !important;
 }
 
 .App-logo {
