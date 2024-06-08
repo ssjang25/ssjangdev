@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ssjangdev/static/css/main.02a13e43.css",
+    "main.css": "/ssjangdev/static/css/main.d7befde4.css",
     "main.js": "/ssjangdev/static/js/main.5da13fe7.js",
     "static/js/453.adc34edb.chunk.js": "/ssjangdev/static/js/453.adc34edb.chunk.js",
     "index.html": "/ssjangdev/index.html",
-    "main.02a13e43.css.map": "/ssjangdev/static/css/main.02a13e43.css.map",
+    "main.d7befde4.css.map": "/ssjangdev/static/css/main.d7befde4.css.map",
     "main.5da13fe7.js.map": "/ssjangdev/static/js/main.5da13fe7.js.map",
     "453.adc34edb.chunk.js.map": "/ssjangdev/static/js/453.adc34edb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02a13e43.css",
+    "static/css/main.d7befde4.css",
     "static/js/main.5da13fe7.js"
   ]
 }
