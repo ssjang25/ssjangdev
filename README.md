@@ -10,6 +10,7 @@
 * I thoroughly enjoyed utilizing Typist, Bootstrap icons, and Bootstrap itself to create this site. 
 
 * favicon by rawpixel.com on Freepik
+* Inspiration taken from gazijarin.com
 
 <img width="1072" alt="Screen Shot 2024-05-29 at 8 31 32 PM" src="https://github.com/ssjang25/ssjangdev/assets/124815798/a2ef7084-24eb-4d4a-96de-a4df163303c7">
 
