@@ -1,6 +1,6 @@
 .navbar {
     background-color: var(--navy)!important; 
-    color: var(--lightest-slate);
+    color: var(white);
     font-family: "Quicksand", sans-serif;
     font-weight: bold;
   }
