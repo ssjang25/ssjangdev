@@ -60,6 +60,12 @@ function Projects() {
       techStack: "Java, JavaSwing",
       source: "https://github.com/ssjang25/Ask-A-Valentine",
       demo:""
+    },
+    "R.T. Hannigan Corp.":{
+      desc: "A simple and responsive website for an electrical and remodeling company.",
+      techStack: "Javascript, HTML/CSS",
+      source: "https://github.com/ssjang25/RT_Hannigan_2",
+      demo:"https://rthannigancorp.com/"
     }
   };
 

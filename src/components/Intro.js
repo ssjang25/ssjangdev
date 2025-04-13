@@ -19,10 +19,10 @@ function Intro() {
                   <span className="name">{"rah"}</span>
               </Typist>
           </span>
-          <div className='intro-subtitle'>Hackathon addict and occasional video game enthusiast.</div>
+          <div className='intro-subtitle'>Frontend engineer, hackathon addict and occasional video game enthusiast.</div>
           <div className='intro-bio'>
             I'm an aspiring software engineer from Northborough, MA specializing in front-end development.
-            I'm a rising senior currently pursuing a B.S in Computer Science at UMass Amherst.
+            I'm a senior at the University of Massachuestts Amherst and will be graduating with my Bachelor's in Computer Science in May 2025.
           </div>
         </div>
         <img className="headshot" src={`${process.env.PUBLIC_URL}/assets/headshot.png`} alt="headshot" />
