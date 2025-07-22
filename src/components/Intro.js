@@ -10,19 +10,18 @@ function Intro() {
         <div className="intro-content">
           <span className="intro-title">
               <Typist>
-                  <span> {"hu,"}</span>
+                  <span> {"Hu,"}</span>
                   <Typist.Backspace count={3} delay={200} />
-                  <span> {"hi,"}</span>
-                  <span> {"i'm"}</span>
-                  <span className="name">{" saea"}</span>
+                  <span> {"Hi,"}</span>
+                  <span> {"I'm"}</span>
+                  <span className="name">{" Saea"}</span>
                   <Typist.Backspace count={2} delay={200} />
                   <span className="name">{"rah"}</span>
               </Typist>
           </span>
-          <div className='intro-subtitle'>Frontend engineer, hackathon addict and occasional video game enthusiast.</div>
+          <div className='intro-subtitle'>Aspiring software engineer, hackathon addict and occasional video game enthusiast.</div>
           <div className='intro-bio'>
-            I'm an aspiring software engineer from Northborough, MA specializing in front-end development.
-            I'm a senior at the University of Massachuestts Amherst and will be graduating with my Bachelor's in Computer Science in May 2025.
+            I'm a recent graduate from the University of Massachuestts Amherst and have received my Bachelor's in Computer Science in May 2025. I've done previous work as a Frontend Developer Intern for startup <b>ProsperOn</b>, and am currently working as an IT Intern for <b>Wave Life Sciences</b>.
           </div>
         </div>
         <img className="headshot" src={`${process.env.PUBLIC_URL}/assets/headshot.png`} alt="headshot" />

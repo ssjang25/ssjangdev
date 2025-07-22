@@ -62,10 +62,20 @@ function Projects() {
       demo:""
     },
     "R.T. Hannigan Corp.":{
-      desc: "A simple and responsive website for an electrical and remodeling company.",
+      desc: "A simple and responsive website for an electrical and remodeling company, complete with testimonials and an active feedback form.",
       techStack: "Javascript, HTML/CSS",
       source: "https://github.com/ssjang25/RT_Hannigan_2",
       demo:"https://rthannigancorp.com/"
+    },
+    "Speech Emotion Recognizer": {
+      desc: "A speech analysis program that uses LSTM-based recurrent neural networks (RNNs) to  detect and classify audio into 6 human emotion categories.",
+      techStack: "Python, PyTorch",
+      source: "https://github.com/Saniya1016/CS389_Final"
+    }
+    ,
+    "scrapwithme": {
+      desc: "TBD",
+      techStack: "React, Tailwindcss, Flask, Postgres"
     }
   };
 
